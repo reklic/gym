@@ -183,6 +183,6 @@ h2:hover {
         transition: 0.3s ease;
       }
       .section-1 {
-          align-content: center;
+          align-content: flex-start;
       }
 }
