@@ -77,12 +77,10 @@ h2:hover {
     bottom: 0;
     min-height: 100%;
     min-width: 100%;
-    z-index: -100;
 }
 
 .video-cover {
     background-image: linear-gradient(rgba(17, 21, 23, 0.1), rgba(17, 21, 23, 0.2), rgba(17, 21, 23, 1));
-    background-color: rgba(17, 21, 23, .9);
 }
 
 .flex-container > div {
