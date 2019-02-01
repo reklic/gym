@@ -21,6 +21,10 @@ a {
     transition: 0.3s ease;
 }
 
+.hero-inner {
+    align-self: center;
+}
+
 a:hover {
     color: #ffa400;
 }
@@ -177,5 +181,8 @@ h2:hover {
         border-radius: 50%;
         width: 70%;
         transition: 0.3s ease;
+      }
+      .section-1 {
+          align-content: center;
       }
 }
